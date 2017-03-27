@@ -2,3 +2,5 @@ Test de GIT
 Josefina Gutierrez
 Victor Gallegos
 Josefina Hernandez
+Hugor Ruiz
+Francisco Ramirez
